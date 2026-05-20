@@ -3,6 +3,5 @@ this is the second branch
 this is the last branch 
 this is for testings
 
-this is also for the checking
-this creates conflict
+this is also for the che
 this is for my understanding
